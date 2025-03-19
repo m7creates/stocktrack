@@ -1,0 +1,9 @@
+@import './base.css';
+
+
+body{
+    margin: 0 4rem;
+}
+*{
+    font-family: AlbertSans, sans-serif;
+}
